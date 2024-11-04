@@ -1,2 +1,1 @@
-package main
-asdjijanosid
+package v1
